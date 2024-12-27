@@ -3,3 +3,5 @@ langchain-openai==0.2.3
 python-dotenv==1.0.1
 pydantic==2.10.3
 langgraph==0.2.59
+chromadb==0.5.23
+langchain-text-splitters==0.3.4
